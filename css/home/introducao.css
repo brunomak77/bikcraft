@@ -17,6 +17,7 @@
 
 .introducao img {
   height: 100%;
+  width: 100%;
   object-fit: cover;
 }
 
@@ -28,8 +29,6 @@
   margin-bottom: 20px;
   color: var(--cor-5);
 }
-
-
 
 @media (max-width: 800px) {
   .introducao-bg {
